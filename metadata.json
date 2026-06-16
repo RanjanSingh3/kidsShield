@@ -1,0 +1,6 @@
+{
+  "name": "kidsShiield",
+  "description": "An advanced child safety dashboard providing block lists, VPN shield logs, and Gemini AI-powered screen scanning options to protect kids under 10 from adult content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

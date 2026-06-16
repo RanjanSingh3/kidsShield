@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Background Aura Shadow (Subtle dark cyan glow) -->
+    <path
+        android:fillColor="#1506B6D4"
+        android:pathData="M54,16 C71.67,16 86,30.33 86,48 C86,65.67 71.67,80 54,80 C36.33,80 22,65.67 22,48 C22,30.33 36.33,16 54,16 Z" />
+
+    <!-- Bold Security Shield Path -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,26 L76,32 L76,52 C76,68 54,78 54,78 C54,78 32,68 32,52 L32,32 Z" />
+
+    <!-- Complete Centered Checkmark -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5.0"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M44,52 L51,59 L64,46" />
+
+</vector>
